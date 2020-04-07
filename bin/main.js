@@ -10,3 +10,5 @@ module.exports = {
 	division: advanced.division,
 	fibonacci: advanced.fibonacci
 }
+
+// okay
